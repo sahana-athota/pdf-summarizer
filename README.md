@@ -3,7 +3,7 @@
 
 ## Build
 ### Setup
-First, set the `GOOGLE_API_KEY` variable in your environment to your Google Gemini API token that can be obtained from [here](https://ai.google.dev/gemini-api/docs/api-key).
+Set the `GOOGLE_API_KEY` variable in your environment to your Google Gemini API token that can be obtained from [here](https://ai.google.dev/gemini-api/docs/api-key).
 
 ### Dependencies
 This project was built using Node.JS and all the dependencies required to run it can be installed by running `npm i`.
